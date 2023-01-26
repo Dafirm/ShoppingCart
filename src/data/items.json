@@ -1,0 +1,40 @@
+
+[
+  {
+    "id": 1,
+    "name": " MacBook Pro",
+    "price": 2000.99,
+    "imgUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp-spacegray-select-202206_GEO_FI?wid=1280&hei=1190&fmt=jpeg&qlt=90&.v=1664497359286"
+  },
+  {
+    "id": 2,
+    "name": "Asus",
+    "price": 1199,
+    "imgUrl": "https://www.gigantti.fi/image/dv_web_D1800010021077164/460084/asus-x415-i7161024-14-kannettava--pdp_zoom-3000--pdp_main-960.jpg"
+  },
+  {
+    "id": 3,
+    "name": "ThinkPad E15",
+    "price": 1050.05,
+    "imgUrl": "https://www.lenovo.com/medias/?context=bWFzdGVyfHJvb3R8MjM5NzI4fGltYWdlL3BuZ3xoM2MvaGE0LzE0MTkyNDMwMDU1NDU0LnBuZ3wyYTQyMzU3MTA3OWNiMDY1OTUyNDA4MjJiZjg5M2E4YjNkNGZjYzI1NGFhOGQ0ZWNiMjI0MTVjNTIzOThlZDY5"
+  },
+  {
+    "id": 4,
+    "name": "Lenovo IdeaPad Gaming",
+    "price": 14000,
+    "imgUrl": "https://www.gigantti.fi/image/dv_web_D180001002978023/422375/lenovo-ideapad-gaming-3-i5-1185121650120hz-156-pelikannettava--pdp_zoom-3000--pdp_main-960.jpg"
+  },
+
+    {
+    "id": 5,
+    "name": "Lenovo ThinkBook Plus",
+    "price": 1999,
+    "imgUrl": "https://cdn.verk.net/kuvastin/w:1632/h:1020/rt:fit/q:80/sh:0.5/plain/images/53/2_851389-3999x3458.jpg"
+  }, 
+   {
+    "id": 6,
+    "name": "Samsung Galaxy Book Pro 360 15",
+    "price": 1109,
+    "imgUrl": "https://cdn.verk.net/kuvastin/w:1632/h:1020/rt:fit/q:80/sh:0.5/plain/images/50/2_702116-3529x2860.jpg"
+  }
+]
